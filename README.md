@@ -24,25 +24,25 @@
 ### Contents
 
 - [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-  - [Examples](#examples)
-  - [Educational](#educational)
-  - [Deployed on StarkNet Mainnet](#built--deployed-on-starknet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Security](#security)
+    - [Examples](#examples)
+      - [Educational](#educational)
+      - [Built / Deployed on StarkNet](#built--deployed-on-starknet)
+    - [Templates](#templates)
+    - [Books](#books)
+    - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
+    - [General](#general)
+    - [Utility](#utility)
+    - [Audit](#audit)
 - [Editor Plugins](#editor-plugins)
-  - [Vim](#vim)
-  - [Visual Studio Code](#visual-studio-code)
+    - [Vim](#vim)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -153,7 +153,7 @@
 
 #### Jobs
 - [Dapp Developer at Shard labs](https://almanac.io/docs/starknet-dapp-developer-shard-labs-8UMOmydaLJX7jzQAZReYJTcC0o4RtE1m).
-- [Open source developer at Open Zeppelin](https://openzeppelin.com/jobs/opening/?gh_jid=4554917003&gh_src=2742d3093us).
+- [Open source developer at Open Zeppelin](https://openzeppelin.com/jobs/#openings).
 - [Cairo engineers at Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
 - [Chainlink integration team](https://discord.com/channels/793094838509764618/898210860030386178/905842249840074783).
 - [Blockchain software engineer at JellyFi](https://mango-cry-b61.notion.site/Blockchain-software-engineer-9634a0236c454e6ab7679a93478f2f8b).
